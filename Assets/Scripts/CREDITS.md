@@ -21,8 +21,8 @@
 | Asset                      | URL                                         |
 | -------------------------- | ------------------------------------------- |
 | Interface Sounds (100 OGG) | https://mixkit.co/free-sound-effects/click/ |
-| Impact Sounds (130 OGG)    | https://mixkit.co/free-sound-effects/click/ |
-| RPG Audio                  | https://mixkit.co/free-sound-effects/click/ |
+| Impact Sounds (130 OGG)    | https://mixkit.co/free-sound-effects/hit/ |
+| RPG Audio                  | https://mixkit.co/free-sound-effects/win/ |
 
 ## Audio — Music
 
