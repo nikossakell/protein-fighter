@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0014889d65bdfe348ab3eb59bc9050e8, type: 3}
+  m_Name: Card_olive_oil
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  id: olive_oil
+  displayNameEl: "\u0395\u039B\u0391\u0399\u039F\u039B\u0391\u0394\u039F"
+  rank: 2
+  artwork: {fileID: 4013204663891192149, guid: 8b37516373482214cb52e6f059af2bd1, type: 3}
+  proteins: 0
+  carbs: 0
+  fats: 58
+  vitamins: 10
+  omega3: 50
+  fiber: 0
+  nutritionFactEl: "\u03A4\u03BF \u03B5\u03BB\u03B1\u03B9\u03CC\u03BB\u03B1\u03B4\u03BF
+    \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03BB\u03BF\u03CD\u03C3\u03B9\u03BF \u03C3\u03B5
+    \u03B5\u03BB\u03B1\u03CA\u03BA\u03CC \u03BF\u03BE\u03CD \u03BA\u03B1\u03B9 \u03C0\u03BF\u03BB\u03C5\u03C6\u03B1\u03B9\u03BD\u03CC\u03BB\u03B5\u03C2
+    \u03C0\u03BF\u03C5 \u03BC\u03B5\u03B9\u03CE\u03BD\u03BF\u03C5\u03BD \u03C4\u03B7
+    \u03C6\u03BB\u03B5\u03B3\u03BC\u03BF\u03BD\u03AE \u03BA\u03B1\u03B9 \u03C0\u03C1\u03BF\u03C3\u03C4\u03B1\u03C4\u03B5\u03CD\u03BF\u03C5\u03BD
+    \u03C4\u03BF \u03BA\u03B1\u03C1\u03B4\u03B9\u03B1\u03B3\u03B3\u03B5\u03B9\u03B1\u03BA\u03CC
+    \u03C3\u03CD\u03C3\u03C4\u03B7\u03BC\u03B1."

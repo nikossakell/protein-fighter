@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0014889d65bdfe348ab3eb59bc9050e8, type: 3}
+  m_Name: Card_sardines
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  id: sardines
+  displayNameEl: "\u03A3\u0391\u03A1\u0394\u0395\u039B\u0395\u03A3"
+  rank: 2
+  artwork: {fileID: 8042890806691875557, guid: da4e22e9dafc09d42a7ded740baec6d0, type: 3}
+  proteins: 50
+  carbs: 0
+  fats: 15
+  vitamins: 20
+  omega3: 60
+  fiber: 0
+  nutritionFactEl: "\u039F\u03B9 \u03C3\u03B1\u03C1\u03B4\u03AD\u03BB\u03B5\u03C2
+    \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B5\u03BE\u03B1\u03B9\u03C1\u03B5\u03C4\u03B9\u03BA\u03AC
+    \u03C0\u03BB\u03BF\u03CD\u03C3\u03B9\u03B5\u03C2 \u03C3\u03B5 \u03A93 \u03BB\u03B9\u03C0\u03B1\u03C1\u03AC
+    \u03BF\u03BE\u03AD\u03B1 \u03BA\u03B1\u03B9 \u03B1\u03C3\u03B2\u03AD\u03C3\u03C4\u03B9\u03BF
+    (\u03B1\u03C0\u03CC \u03C4\u03B1 \u03BA\u03CC\u03BA\u03B1\u03BB\u03B1), \u03C3\u03C5\u03BC\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD\u03C4\u03B1\u03C2
+    \u03C3\u03C4\u03B7\u03BD \u03BA\u03B1\u03C1\u03B4\u03B9\u03B1\u03B3\u03B3\u03B5\u03B9\u03B1\u03BA\u03AE
+    \u03C5\u03B3\u03B5\u03AF\u03B1."

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0014889d65bdfe348ab3eb59bc9050e8, type: 3}
+  m_Name: Card_tuna
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  id: tuna
+  displayNameEl: "\u03A4\u039F\u039D\u039F\u03A3"
+  rank: 2
+  artwork: {fileID: 1271661819729597233, guid: 95a271b0e5bb6b141a52aa51e04ffced, type: 3}
+  proteins: 65
+  carbs: 0
+  fats: 7
+  vitamins: 15
+  omega3: 40
+  fiber: 0
+  nutritionFactEl: "\u039F \u03C4\u03CC\u03BD\u03BF\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9
+    \u03AC\u03C0\u03B1\u03C7\u03B7 \u03C0\u03B7\u03B3\u03AE \u03C0\u03C1\u03C9\u03C4\u03B5\u0390\u03BD\u03B7\u03C2
+    \u03BA\u03B1\u03B9 \u03A93 \u03BB\u03B9\u03C0\u03B1\u03C1\u03CE\u03BD \u03BF\u03BE\u03AD\u03C9\u03BD,
+    \u03B9\u03B4\u03B1\u03BD\u03B9\u03BA\u03CC\u03C2 \u03B3\u03B9\u03B1 \u03B1\u03B8\u03BB\u03B7\u03C4\u03AD\u03C2
+    \u03BA\u03B1\u03B9 \u03B4\u03AF\u03B1\u03B9\u03C4\u03B5\u03C2 \u03C7\u03B1\u03BC\u03B7\u03BB\u03CE\u03BD
+    \u03BB\u03B9\u03C0\u03B1\u03C1\u03CE\u03BD."

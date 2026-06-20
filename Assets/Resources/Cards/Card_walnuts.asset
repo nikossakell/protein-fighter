@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0014889d65bdfe348ab3eb59bc9050e8, type: 3}
+  m_Name: Card_walnuts
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  id: walnuts
+  displayNameEl: "\u039A\u0391\u03A1\u03A5\u0394\u0399\u0391"
+  rank: 2
+  artwork: {fileID: 7855419873357747401, guid: bb1fe7e3c71e6be409e3d332ae846ffe, type: 3}
+  proteins: 20
+  carbs: 10
+  fats: 35
+  vitamins: 15
+  omega3: 50
+  fiber: 10
+  nutritionFactEl: "\u03A4\u03B1 \u03BA\u03B1\u03C1\u03CD\u03B4\u03B9\u03B1 \u03AD\u03C7\u03BF\u03C5\u03BD
+    \u03C4\u03B7\u03BD \u03C5\u03C8\u03B7\u03BB\u03CC\u03C4\u03B5\u03C1\u03B7 \u03C0\u03B5\u03C1\u03B9\u03B5\u03BA\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1
+    \u03C3\u03B5 \u03C6\u03C5\u03C4\u03B9\u03BA\u03AC \u03A93 (ALA) \u03B1\u03C0\u03CC
+    \u03CC\u03BB\u03BF\u03C5\u03C2 \u03C4\u03BF\u03C5\u03C2 \u03BE\u03B7\u03C1\u03BF\u03CD\u03C2
+    \u03BA\u03B1\u03C1\u03C0\u03BF\u03CD\u03C2, \u03C9\u03C6\u03B5\u03BB\u03CE\u03BD\u03C4\u03B1\u03C2
+    \u03C4\u03BF\u03BD \u03B5\u03B3\u03BA\u03AD\u03C6\u03B1\u03BB\u03BF."

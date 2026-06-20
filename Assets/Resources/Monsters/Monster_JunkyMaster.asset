@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c795f612e74bc643bfe7605369025f7, type: 3}
+  m_Name: Monster_JunkyMaster
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterDeckData
+  monsterId: monster_junkymaster
+  monsterNameEl: "\u03A4\u03B6\u03B1\u03BD\u03BA \u039C\u03AC\u03C3\u03C4\u03B5\u03C1"
+  avatar: {fileID: -6417067553998704237, guid: 3c87907f8dd146c419ed61e39c22d3e9, type: 3}
+  difficulty: 3
+  introEl: "\u03A0\u03AF\u03C4\u03C3\u03B1 \u039C\u03C0\u03AD\u03C1\u03B3\u03B5\u03C1
+    \u03A0\u03B1\u03C4\u03AC\u03C4\u03B5\u03B5\u03B5\u03B5\u03B5\u03B5\u03B5\u03B5\u03B5\u03B5\u03B5\u03C2"
+  defeatQuoteEl: "\u039C\u03BF\u03C5 \u03B2\u03B3\u03AE\u03BA\u03B5 \u03C4\u03BF
+    \u03BB\u03AC\u03B4\u03B9..."
+  educationHookEl: "\u0391\u03C0\u03AD\u03C6\u03C5\u03B3\u03B5 \u03C4\u03B1 \u03C6\u03B1\u03B3\u03B7\u03C4\u03AC
+    \u03C0\u03BF\u03C5 \u03C0\u03B5\u03C1\u03B9\u03AD\u03C7\u03BF\u03C5\u03BD \u03B5\u03C0\u03B5\u03BE\u03B5\u03C1\u03B3\u03B1\u03C3\u03BC\u03AD\u03BD\u03BF
+    \u03BB\u03AC\u03B4\u03B9"
+  deck:
+  - {fileID: 11400000, guid: a271601bdd43bd24f8d6fc3dc9d5f5b8, type: 2}
+  - {fileID: 11400000, guid: c74163558687f30428d754fd30a2a115, type: 2}
+  - {fileID: 11400000, guid: 531291117e3cdbd4c95754d4f491962e, type: 2}
+  - {fileID: 11400000, guid: 418c0002b264ebc48bd2fa956ce5ef40, type: 2}
+  - {fileID: 11400000, guid: 9df19d79dd8317c4d8ecf50979c488bf, type: 2}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0014889d65bdfe348ab3eb59bc9050e8, type: 3}
+  m_Name: Card_banana
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  id: banana
+  displayNameEl: "\u039C\u03A0\u0391\u039D\u0391\u039D\u0391"
+  rank: 0
+  artwork: {fileID: -9182177788924653191, guid: cb7f881b183a46c4ab79b52a037e176c, type: 3}
+  proteins: 15
+  carbs: 25
+  fats: 5
+  vitamins: 15
+  omega3: 5
+  fiber: 15
+  nutritionFactEl: "\u0397 \u03BC\u03C0\u03B1\u03BD\u03AC\u03BD\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9
+    \u03B5\u03BE\u03B1\u03B9\u03C1\u03B5\u03C4\u03B9\u03BA\u03AE \u03C0\u03B7\u03B3\u03AE
+    \u03BA\u03B1\u03BB\u03AF\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03C6\u03C5\u03C3\u03B9\u03BA\u03CE\u03BD
+    \u03C3\u03B1\u03BA\u03C7\u03AC\u03C1\u03C9\u03BD \u03C0\u03BF\u03C5 \u03B1\u03C0\u03BF\u03B4\u03AF\u03B4\u03BF\u03C5\u03BD
+    \u03B3\u03C1\u03AE\u03B3\u03BF\u03C1\u03B7 \u03B5\u03BD\u03AD\u03C1\u03B3\u03B5\u03B9\u03B1."

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c795f612e74bc643bfe7605369025f7, type: 3}
+  m_Name: Monster_SugarMonster
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterDeckData
+  monsterId: monster_sugarmonster
+  monsterNameEl: "\u0396\u03B1\u03C7\u03B1\u03C1\u03BF\u03C4\u03AD\u03C1\u03B1\u03C2"
+  avatar: {fileID: -2673055877517983756, guid: 3151c86bb9628b9439a230fe55a96599, type: 3}
+  difficulty: 1
+  introEl: "\u0398\u03AD\u03BB\u03B5\u03B9\u03C2 \u03B3\u03BB\u03C5\u03C6\u03B9\u03C4\u03B6\u03BF\u03CD\u03C1\u03B9?"
+  defeatQuoteEl: "\u0388\u03B3\u03B9\u03BD\u03B1 \u03BA\u03BF\u03BC\u03BC\u03AC\u03C4\u03B9\u03B1..."
+  educationHookEl: "\u0397 \u03C5\u03C0\u03B5\u03C1\u03B2\u03BF\u03BB\u03B9\u03BA\u03AE
+    \u03B6\u03AC\u03C7\u03B1\u03C1\u03B7 \u03B1\u03C0\u03BF\u03C1\u03C1\u03C5\u03B8\u03BC\u03AF\u03B6\u03B5\u03B9
+    \u03C4\u03BF\u03BD \u03B5\u03B3\u03BA\u03AD\u03C6\u03B1\u03BB\u03BF"
+  deck:
+  - {fileID: 11400000, guid: 0e6e404928df78e4b8379ec44be657be, type: 2}
+  - {fileID: 11400000, guid: 67859fcd968edee4ba9ad912022c5c3a, type: 2}
+  - {fileID: 11400000, guid: c8c4b8f61b3c38644b878d9635eae8fe, type: 2}
+  - {fileID: 11400000, guid: 531291117e3cdbd4c95754d4f491962e, type: 2}
+  - {fileID: 11400000, guid: 72ca6a1dcce7785478a2eee6134d1bdc, type: 2}

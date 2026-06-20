@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0014889d65bdfe348ab3eb59bc9050e8, type: 3}
+  m_Name: Card_eggs
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  id: eggs
+  displayNameEl: "\u0391\u03A5\u0393\u0391"
+  rank: 1
+  artwork: {fileID: -5445851545866320189, guid: b99e5b1ab8e14b84e944c398e0b7d2df, type: 3}
+  proteins: 40
+  carbs: 2
+  fats: 23
+  vitamins: 15
+  omega3: 10
+  fiber: 0
+  nutritionFactEl: "\u03A4\u03B1 \u03B1\u03C5\u03B3\u03AC \u03B5\u03AF\u03BD\u03B1\u03B9
+    \u03C0\u03BB\u03AE\u03C1\u03B7\u03C2 \u03C0\u03B7\u03B3\u03AE \u03C0\u03C1\u03C9\u03C4\u03B5\u0390\u03BD\u03B7\u03C2
+    \u03BC\u03B5 \u03CC\u03BB\u03B1 \u03C4\u03B1 \u03B1\u03C0\u03B1\u03C1\u03B1\u03AF\u03C4\u03B7\u03C4\u03B1
+    \u03B1\u03BC\u03B9\u03BD\u03BF\u03BE\u03AD\u03B1 \u03BA\u03B1\u03B9 \u03B2\u03B9\u03C4\u03B1\u03BC\u03AF\u03BD\u03B5\u03C2
+    B12 \u03BA\u03B1\u03B9 D."
